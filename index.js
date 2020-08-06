@@ -1,5 +1,5 @@
 
-alert('Vă rog să conectați sunetul și să faceți click pe ecran!');
+alert('Vă rog să conectați sunetul și să faceți click pe ecran în câteva secunde! :)');
 function on() {
     
 function music() {
